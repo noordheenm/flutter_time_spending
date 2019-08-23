@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_complete_guide/widgets/adaptive_flat_buttom.dart';
+import '../widgets/adaptive_flat_buttom.dart';
 import 'package:intl/intl.dart';
 
 class NewTransaction extends StatefulWidget {
