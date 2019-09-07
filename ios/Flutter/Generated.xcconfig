@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/noordheen/flutter
-FLUTTER_APPLICATION_PATH=/Users/noordheen/Projects/Flutter/Time_spending/flutter_git/flutter_time_spending
-FLUTTER_TARGET=/Users/noordheen/Projects/Flutter/Time_spending/flutter_git/flutter_time_spending/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/noordheen/Projects/Flutter/Time_spending/flutter_git/time_spending
+FLUTTER_TARGET=/Users/noordheen/Projects/Flutter/Time_spending/flutter_git/time_spending/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/noordheen/flutter/bin/cache/artifacts/engine/ios

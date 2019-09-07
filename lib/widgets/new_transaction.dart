@@ -7,8 +7,9 @@ import 'package:intl/intl.dart';
 
 class NewTransaction extends StatefulWidget {
   final Function addTx;
+  final String studentName;
 
-  NewTransaction(this.addTx) {
+  NewTransaction(this.addTx,this.studentName) {
     print('Constructor NewTransaction');
   }
 
@@ -59,7 +60,8 @@ _NewTransactionState() {
     widget.addTx(
       enteredTitle,
       enteredTime,
-      _selectedDate
+      _selectedDate,
+      widget.studentName,
     );     
     Navigator.of(context).pop();       
   }

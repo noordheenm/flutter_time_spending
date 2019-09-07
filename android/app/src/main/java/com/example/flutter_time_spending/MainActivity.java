@@ -1,4 +1,4 @@
-package com.example.flutter_time_spending;
+package com.example.time_spending;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

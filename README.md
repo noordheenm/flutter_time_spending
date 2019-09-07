@@ -1,4 +1,4 @@
-# flutter_time_spending
+# time_spending
 
 A new Flutter project.
 
